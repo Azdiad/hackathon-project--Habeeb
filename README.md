@@ -13,3 +13,5 @@ Note: Make sure you are always up to date with sync and pull upstream. Sync and 
 
 
 Kindly consider leaving a :star: if you like the repository
+
+#Identify specific bugs in  app and create issues for contributors to fix them.
