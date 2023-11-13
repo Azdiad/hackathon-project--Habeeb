@@ -1,16 +1,15 @@
-Instructions
-Fork this Repository using the button at the top
-Clone yoInstructions
-Fork this Repository using the button at the top
-Clone your forked repository to your pc ( git clone "url from clone option.)
-Create a new branch for your modifications (ie. git checkout -b new-user)
-Add your files (git add .), commit (git commit -m "added myself") and push (git push origin new-user)
-Create a pull request with label
-Star this repository 🌟
-Follow me for more projects 💙ur forked repository to your pc ( git clone "url from clone option.)
-Create a new branch for your modifications (ie. git checkout -b new-user)
-Add your files (git add .), commit (git commit -m "added myself") and push (git push origin new-user)
-Create a pull request with label
-Star this repository 🌟
-Follow me for more projects 💙
+ # How to contribute to this project
 
+ - `Fork` this repository.
+- `Clone` your fork on local machine.
+- Switch to the `main` branch.
+- Make a new `branch`, preferably with the feature name.
+- Checkout to the new branch with `git checkout <new_branch_name>`
+- Do the desired changes and `commit` them with `git commit -m '<a nice commit message here>'`.
+- `Push` the change to your fork on GitHub with `git push origin <your_branch_name>`
+- Make a `Pull Request` to the master branch in the original repository, i.e. this one.
+# Please check all issues
+Note: Make sure you are always up to date with sync and pull upstream. Sync and pull before you start and before you push your work.
+
+
+Kindly consider leaving a :star: if you like the repository
