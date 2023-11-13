@@ -43,6 +43,8 @@ class _DetailsState extends State<Details> {
           icon: SvgPicture.asset(
             "assets/icons/add-to-cart-svgrepo-com.svg",
             color: Colors.white,
+
+            
           )),
       const SizedBox(
         width: kDefaultPadding / 2,
