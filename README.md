@@ -1,16 +1,16 @@
-# online_shop_app
+Instructions
+Fork this Repository using the button at the top
+Clone yoInstructions
+Fork this Repository using the button at the top
+Clone your forked repository to your pc ( git clone "url from clone option.)
+Create a new branch for your modifications (ie. git checkout -b new-user)
+Add your files (git add .), commit (git commit -m "added myself") and push (git push origin new-user)
+Create a pull request with label
+Star this repository 🌟
+Follow me for more projects 💙ur forked repository to your pc ( git clone "url from clone option.)
+Create a new branch for your modifications (ie. git checkout -b new-user)
+Add your files (git add .), commit (git commit -m "added myself") and push (git push origin new-user)
+Create a pull request with label
+Star this repository 🌟
+Follow me for more projects 💙
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
