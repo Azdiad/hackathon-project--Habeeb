@@ -14,13 +14,8 @@ class Body extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: kDefaultPadding),
-          child: Text("Women",
-              style: Theme.of(context).textTheme.headline5!.copyWith(
-                    fontWeight: FontWeight.bold,
-                  )),
-        ),
+       
+        
         const Categories(),
         Expanded(
           child: Padding(

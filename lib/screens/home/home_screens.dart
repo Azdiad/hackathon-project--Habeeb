@@ -3,9 +3,14 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:online_shop_app/const/constants.dart';
 import 'package:online_shop_app/screens/components/body.dart';
 
-class Home extends StatelessWidget {
+class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
 
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

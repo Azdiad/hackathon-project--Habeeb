@@ -4,7 +4,7 @@ import 'package:online_shop_app/models/products.dart';
 import 'package:online_shop_app/screens/details/widget/body.dart';
 
 import '../../../const/constants.dart';
-import '../widget/local_notification.dart';
+
 
 class Details extends StatefulWidget {
   const Details({Key? key,required this.product}) : super(key: key);
@@ -15,11 +15,7 @@ final Product product;
 }
 
 class _DetailsState extends State<Details> {
-  @override
-  void initState() {
-  NotificationApi().initNotification();
-    super.initState();
-  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
